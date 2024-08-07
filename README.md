@@ -17,3 +17,8 @@ Technologies used:
 3) Material UI: UI component library for React
 4) Axios: HTTP client for making API request
 # React-Task
+
+![Screenshot of the Episode and All Characters](src/Images/Episode&Character.png)
+
+
+![Screenshot of the Selected Episode of All Characters](src/Images/SelectedEpisode&Character.png)
