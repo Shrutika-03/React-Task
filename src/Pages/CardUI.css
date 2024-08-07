@@ -1,0 +1,42 @@
+
+
+.episode-character-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.episode-list {
+  width: 15%;
+  padding: 10px;
+  height: 100vh;
+  background-color: lightblue;
+  overflow: scroll;
+  overflow-x: hidden;
+}
+
+.episode-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.episode-list li {
+  cursor: pointer;
+  padding: 8px;
+  margin-bottom: 4px;
+  border-radius: 4px;
+}
+
+.episode-list li.selected {
+  background-color: #333;
+  color: #fff;
+  font-weight: bold;
+}
+
+.character-list {
+  padding: 10px;
+  width: 80%;
+  overflow: hidden;
+  margin: 20px;
+}
+
+
